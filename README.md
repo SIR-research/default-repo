@@ -1,4 +1,4 @@
-# default-repo
+# Setting up your readme
 This is a default repository with instructions on how to format your repository.
 
 It is very important to create a good and accurate read me. It will people understand what is your code about, and help them get started running it.
