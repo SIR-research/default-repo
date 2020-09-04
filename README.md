@@ -63,7 +63,11 @@ Remember, you can use images and youtube videos. Be creative! But be simple and 
 
 ### Push your project to Github
 Now that you have your repository and readme done, you have to push your project content to the repository.
-See how to do this [here](https://kbroman.org/github_tutorial/pages/init.html), but make sure you follow the instructions for **A new repo from an existing project**.
+
+But wait, before pushing it, you might want to see ['what is a gitignore file' and 'what it is for'](https://www.pluralsight.com/guides/how-to-use-gitignore-file). Basically, it tells git what files and directories to ignore when pushing.
+
+See how to push your project to your repository [here](https://kbroman.org/github_tutorial/pages/init.html), but make sure you follow the instructions for **A new repo from an existing project**.
+
 
 
 
