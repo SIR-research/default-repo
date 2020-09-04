@@ -69,4 +69,4 @@ See how to do this [here](https://kbroman.org/github_tutorial/pages/init.html), 
 
 bye,
 
-[Sergio](https://github.com/sergiopolimante).
+Sergio.
