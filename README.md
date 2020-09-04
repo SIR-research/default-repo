@@ -60,6 +60,13 @@ Alright, you got everything you need to get your readme done!
 
 Remember, you can use images and youtube videos. Be creative! But be simple and accurate. 
 
+
+### Push your project to Github
+Now that you have your repository and readme, you have to push your project content to the repository.
+See how to do this [here](https://kbroman.org/github_tutorial/pages/init.html), but make sure you follow the instructions for **A new repo from an existing project**.
+
+
+
 bye,
 
 Sergio.
