@@ -62,13 +62,46 @@ Remember, you can use images and youtube videos. Be creative! But be simple and 
 
 
 ### Push your project to Github
-Now that you have your repository and readme done, you have to push your project content to the repository.
+Now that you have your repository and readme done, you have to push your project content to the repository. 
+First, make sure you have git installed. To install, run the following command on your terminal:
+
+```bash
+conda install -c anaconda git
+```
+
+### If the repository already exists:
+If you are editing a new project from a existing repository, follow this steps.
+First, you will have to clone your repository to your computer. Open a terminal, go to the path you would like to clone your repository and type:
+
+```bash
+git clone <link to your repository>
+```
+A new folder will be created on your computer with the same name of the repository.
+Copy your project files to this repository and push it. 
 
 But wait, before you push it, you might want to see ['what is a gitignore file' and 'what it is for'](https://www.pluralsight.com/guides/how-to-use-gitignore-file). It tells git what files and directories to ignore when pushing.
 
-See how to push your project to your repository [here](https://kbroman.org/github_tutorial/pages/init.html), but make sure you follow the instructions for **A new repo from an existing project**.
+To push it, type these commands to your terminal:
 
 
+```bash
+git add -A
+git commit -m "first commit"
+git push
+```
+
+You will have to enter your git login and password.
+
+Great. You have done your first commit. Now, all your project files are available on Github.
+
+
+
+### If the repository does not exist yet
+
+If the repository you want to push to does not exist yet. Follow [this steps](https://docs.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line).
+
+
+Now that you have your new repository settle up, you will have to get used to the git commands such as pull, add, commit, push, etc... there are many of then, but just a few will serve you in this beginning. You can learn more about Github Basics [here](https://guides.github.com/activities/hello-world/) and in many other online resources. There are plenty of them.
 
 
 bye,
