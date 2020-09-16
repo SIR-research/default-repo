@@ -21,6 +21,8 @@ Our readmes will follow the [official Github recomendations](https://guides.gith
 
 - **License:** We will usualy use [MIT](https://opensource.org/licenses/MIT). 
 
+- **References:** Include here all the relevante references for this project. Links, articles, etc.
+
 Below, you will find a template that we will use as a readme.
 
 ---
